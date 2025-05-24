@@ -1,1 +1,9 @@
-back, m_in, n_in, o_in, m_out, n_out, o_out
+back, m_in, n_in, o_in, m_out, n_out, o_out, comment (no use)
+0, 0, 0, TL, 0, 1, TR, top-left quadrant
+0, 0, 0, DR, 0, 1, DL, top-left quadrant
+0, 0, 1, TL, 1, 1, TR, top-left quadrant
+0, 0, 1, DR, 1, 1, DL, top-left quadrant
+0, 1, 0, TL, 0, 0, TR, top-left quadrant
+0, 1, 0, DR, 0, 0, DL, top-left quadrant
+0, 1, 1, TL, 1, 0, TR, top-left quadrant
+0, 1, 1, DR, 1, 0, DL, top-left quadrant
